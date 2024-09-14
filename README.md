@@ -1,7 +1,9 @@
-#Calculadora de redes usando linea de comandos
+This workspace is for IP Subnet Calculator version 1 project, Instructions below
 
-#Programa principal calcred.py
+*Create a virtual environment - "python -m venv venv"
 
-#Ejecución de script:
+*Install dependencies - "pip install -r requirements.txt"
 
-calcred.py net 10.1.1.1/24
+*To collect dependencies you can use - "pip freeze > requirements.txt"
+
+Run the project with "python calcred.py net 10.1.1.1/24"
